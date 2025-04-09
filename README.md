@@ -33,23 +33,16 @@ ollama pull llama3.2:latest
 Make sure Ollama is installed and running in the background.
 
 2. Clone this Repository and Install Python Dependencies
-bash
-Copy
-Edit
 git clone https://github.com/your-username/human-like-blog-generator.git
 cd human-like-blog-generator
 pip install -r requirements.txt
+
 3. Run the Streamlit App
-bash
-Copy
-Edit
 streamlit run app.py
+
 ✍️ How It Works
 Simply enter a blog topic like:
 
-nginx
-Copy
-Edit
 Why Explainable AI Matters
 And the app will generate a casual, relaxed blog post with a natural tone — like something you'd write over coffee, not something a machine would spit out.
 
